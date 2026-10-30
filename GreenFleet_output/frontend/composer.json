@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/socialite": "^5.28",
+        "socialiteproviders/microsoft-azure": "^5.2"
+    }
+}
